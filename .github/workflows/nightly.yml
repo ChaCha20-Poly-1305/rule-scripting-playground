@@ -1,16 +1,19 @@
 name: Nightly Update
 on:
   schedule:
-    - cron: '0 16 * * *'  # 16:00 UTC
+    - cron: '0 16 * * *'
   workflow_dispatch:
 jobs:
   run-scripts:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
+      - uses: actions/setup-python@v6
+        with:
+          python-version: '3.x'
       - name: Run scripts
         run: |
-          python3 extract-domains.py
+          python extract-domains.py
           bash merge-and-sort.sh
           bash generate-domain-rules.sh
           bash generate-ip-geo-detect-rules.sh
@@ -21,3 +24,12 @@ jobs:
           git add .
           git diff --staged --quiet || git commit -m "Automated update: $(date +'%Y-%m-%d')"
           git push
+      - name: Create release
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: "release-$(date +'%Y-%m-%d')"
+          name: "Automated nightly release $(date +'%Y-%m-%d')"
+          files: |
+            output/ru-unbound-domain-blocklist.conf
+            output/ru-foreign-TLD-domain.list
+            output/ip-geo-detect-domain.list
