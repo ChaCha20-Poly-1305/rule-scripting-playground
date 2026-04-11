@@ -10,7 +10,7 @@ jobs:
       - uses: actions/checkout@v4
       - name: Run scripts
         run: |
-          python extract-domains.py
+          python3 extract-domains.py
           bash merge-and-sort.sh
           bash generate-domain-rules.sh
           bash generate-ip-geo-detect-rules.sh
