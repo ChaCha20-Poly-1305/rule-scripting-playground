@@ -1,3 +1,9 @@
+# NAME: ru-foreign-TLD-domain.list
+# AUTHOR: ChaCha20-Poly-1305
+# REPO: https://github.com/ChaCha20-Poly-1305/rule-scripting-playground
+# UPDATED: 2026-04-11 21:08:12 CST
+# TOTAL: 424
+
 # This file is intended for demonstration and educational purposes only.
 DOMAIN-SUFFIX,24h.tv
 DOMAIN-SUFFIX,2gis.ae
@@ -92,6 +98,7 @@ DOMAIN-SUFFIX,donationalerts.com
 DOMAIN-SUFFIX,driveawaytaxi.org
 DOMAIN-SUFFIX,dsppx1.com
 DOMAIN-SUFFIX,eaptechka.online
+DOMAIN-SUFFIX,easyteka.com
 DOMAIN-SUFFIX,eccdn.co
 DOMAIN-SUFFIX,edgedns.world
 DOMAIN-SUFFIX,emias.info
@@ -146,13 +153,16 @@ DOMAIN-SUFFIX,livejournal.com
 DOMAIN-SUFFIX,livejournal.net
 DOMAIN-SUFFIX,lizageld.de
 DOMAIN-SUFFIX,lmru.tech
+DOMAIN-SUFFIX,loymaxsc.net
 DOMAIN-SUFFIX,magnit.com
 DOMAIN-SUFFIX,magnit.tech
 DOMAIN-SUFFIX,mail-carrotquest.io
+DOMAIN-SUFFIX,medrocket.me
 DOMAIN-SUFFIX,medrussia.org
 DOMAIN-SUFFIX,medsi.com
 DOMAIN-SUFFIX,medsi.pro
 DOMAIN-SUFFIX,medtochka.md
+DOMAIN-SUFFIX,medtochka.me
 DOMAIN-SUFFIX,megamarket.tech
 DOMAIN-SUFFIX,megapolis.llc
 DOMAIN-SUFFIX,memealerts.com
@@ -210,7 +220,10 @@ DOMAIN-SUFFIX,popmechanic.io
 DOMAIN-SUFFIX,premier.one
 DOMAIN-SUFFIX,prodcontest.com
 DOMAIN-SUFFIX,pushgrow.io
+DOMAIN-SUFFIX,qntm.it.com
+DOMAIN-SUFFIX,rbsgate.com
 DOMAIN-SUFFIX,restream-media.net
+DOMAIN-SUFFIX,ritrag.com
 DOMAIN-SUFFIX,rocketozon.by
 DOMAIN-SUFFIX,rosbank-credit.com
 DOMAIN-SUFFIX,rostaxi.org
@@ -247,6 +260,7 @@ DOMAIN-SUFFIX,sourcecraft.dev
 DOMAIN-SUFFIX,sprosivracha.com
 DOMAIN-SUFFIX,sr.farm
 DOMAIN-SUFFIX,static-storage.net
+DOMAIN-SUFFIX,streamerce.live
 DOMAIN-SUFFIX,support-uber.com
 DOMAIN-SUFFIX,sushi-mag.com
 DOMAIN-SUFFIX,t-bank.by
@@ -256,6 +270,7 @@ DOMAIN-SUFFIX,t-tech.team
 DOMAIN-SUFFIX,t.finance
 DOMAIN-SUFFIX,tamtam.chat
 DOMAIN-SUFFIX,taobao.com
+DOMAIN-SUFFIX,targetrtb.com
 DOMAIN-SUFFIX,taxiaid.org
 DOMAIN-SUFFIX,taxiguru.org
 DOMAIN-SUFFIX,taxitax.org
@@ -273,6 +288,7 @@ DOMAIN-SUFFIX,tinkoffmobile.com
 DOMAIN-SUFFIX,tips.tips
 DOMAIN-SUFFIX,tochka-tech.com
 DOMAIN-SUFFIX,tochka.com
+DOMAIN-SUFFIX,tolstoycomments.com
 DOMAIN-SUFFIX,top100vk.com
 DOMAIN-SUFFIX,trbcdn.net
 DOMAIN-SUFFIX,trisigma.io
