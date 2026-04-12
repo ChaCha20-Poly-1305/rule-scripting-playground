@@ -1,8 +1,8 @@
 # NAME: ip-geo-detect-domain.list
 # AUTHOR: ChaCha20-Poly-1305
 # REPO: https://github.com/ChaCha20-Poly-1305/rule-scripting-playground
-# UPDATED: 2026-04-12 05:22:13 CST
-# TOTAL: 132
+# UPDATED: 2026-04-13 00:13:40 CST
+# TOTAL: 133
 
 DOMAIN-SUFFIX,51degrees.com
 DOMAIN-SUFFIX,abstractapi.com
@@ -43,6 +43,7 @@ DOMAIN-SUFFIX,ip-api.com
 DOMAIN-SUFFIX,ip-api.io
 DOMAIN-SUFFIX,ip-check.info
 DOMAIN-SUFFIX,ip-score.com
+DOMAIN-SUFFIX,ip.comss.net
 DOMAIN-SUFFIX,ip.hetzner.com
 DOMAIN-SUFFIX,ip.me
 DOMAIN-SUFFIX,ip.sb

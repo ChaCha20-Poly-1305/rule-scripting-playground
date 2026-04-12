@@ -26,6 +26,7 @@
 5post.market
 abonementx5.ru
 abr.ru
+accesspoint.uz
 activate.activation-v2.kaspersky.com
 activation-v2.geo.kaspersky.com
 activation-v2.kaspersky.com
@@ -37,6 +38,7 @@ admetrica.ru
 ads-gate.wildberries.ru
 ads-media.wildberries.ru
 ads.neon.click
+ads.sber.ru
 ads.wildberries.ru
 ads.x5media.ru
 ads.yandex
@@ -58,8 +60,10 @@ ae-rus.net
 aestatic.net
 afisha.ru
 agency-adv.ozon.ru
+alfabank.oavdo.amc
 alfabank.ru
 alfabank.st
+alfadirect.ru
 algoritmika.org
 aliapp.com
 alibaba.com
@@ -119,6 +123,8 @@ bankline.ru
 bansi.ru
 bashkiria.ru
 baumi.ru
+bcs-bank.ru
+bcs.ru
 beeline.tv
 beginners-adv.ozon.ru
 belgorod.ru
@@ -135,6 +141,7 @@ botmechanic.io
 bps-sberbank.by
 brand.cash
 bristol.ru
+broker.ru
 browser-updater.yandex.net
 bryansk.ru
 bs.yandex.ru
@@ -192,6 +199,7 @@ clck.yandex.ru
 clck.yango.com
 cleantalk.org
 clickstream.sberbank.ru
+clients.site
 cloud.ru
 cloudru.cn
 clstorage.net
@@ -208,9 +216,11 @@ comss.org
 contessa.ru
 counter.yandex.net
 counter.yandex.ru
+cplsb.ru
 crimea.ru
 crl.kaspersky.com
 cu.ru
+cuprum.media
 custody.ru
 dagestan.ru
 dashly.app
@@ -265,6 +275,7 @@ driveawaytaxi.org
 dsppx1.com
 dzen.ru
 dzeninfra.ru
+e.mindbox.ru
 e5.ru
 eaptechka.online
 eapteka.ru
@@ -299,6 +310,7 @@ fix-price.com
 fixgoodsport.ru
 foralice.online
 foxx-shop.ru
+g.mindbox.ru
 gainstech.ru
 gazprombank.com
 gazprombank.investments
@@ -308,7 +320,9 @@ genotek.am
 genotek.health
 geobasket.ru
 gerronfox.com
+getsynapse.io
 giga.chat
+gitverse.ru
 gogettaxi.org
 gondol.ru
 google-analytics-suite.ozon.ru
@@ -331,6 +345,10 @@ haicomdc.com
 haicomdc.ru
 haicomgroup.ru
 hayya.ae
+hh.by
+hh.kz
+hh.ru
+hhcdn.ru
 i-ola.ru
 id.ru
 ideco.dev
@@ -484,6 +502,7 @@ lmru.tech
 loyalnost-adv.ozon.ru
 loymaxsc.net
 made-in-altai.ru
+madte.st
 magadan.ru
 magic-mix.ru
 magnit.com
@@ -496,6 +515,8 @@ maoshop.ru
 mari-el.ru
 mari.ru
 marine.ru
+marketing-info.wildberries.ru
+marketplace-sentry.wb.ru
 max-tcs.ru
 max.ru
 mc.yandex.com
@@ -517,6 +538,7 @@ megamarket.tech
 megapolis.llc
 memealerts.com
 meteum.ai
+metrics.21-school.ru
 metrika.yandex.ru
 metro-cc.ru
 metro.spb.ru
@@ -531,6 +553,7 @@ mindbox.group
 mindbox.ru
 mindbox.site
 mindbox.so
+mkb.ru
 mnogolososya.ru
 moex.com
 mordovia.ru
@@ -638,6 +661,7 @@ p17.upd.kaspersky.com
 p18.upd.kaspersky.com
 p19.upd.kaspersky.com
 papertole.by
+payecom.ru
 payment.ru
 paywb.com
 paywb.ru
@@ -650,6 +674,7 @@ perm.ru
 phoenix-ca.ru
 pix.yandex.ru
 pixel.yandex.net
+platiecom.ru
 playfamily.ru
 pleamo.ru
 pochtabank.ru
@@ -672,11 +697,14 @@ pushgrow.io
 qnails.ru
 qntm.it.com
 questions-adv.ozon.ru
+r-99.com
+rabota.by
 rbcollect.ru
 rbcredit.ru
 rbsgate.com
 refresh-bkg.activation-v2.kaspersky.com
 report.ap.yandex-net.ru
+restnproducts.ru
 restream-media.net
 rf-sim-mobile.ru
 ritrag.com
@@ -711,6 +739,7 @@ rwbgeo.ru
 ryazan.ru
 rzd-bonus.ru
 rzd.ru
+s.mindbox.ru
 s00.upd.kaspersky.com
 s01.upd.kaspersky.com
 s02.upd.kaspersky.com
@@ -746,11 +775,13 @@ sberbank-insurance.ru
 sberbank-tele.com
 sberbank.com
 sberbank.ru
+sberbankaktivno.ru
 sberbankins.ru
 sbercloud.ru
 sbercloud.tech
 sberdevices.ru
 sberdisk.ru
+sberfactoring.ru
 sberhealth.ru
 sberindex.ru
 sberleasing.ru
@@ -760,7 +791,10 @@ sbermegamarket.ru
 sbermobile.ru
 sberpb.ru
 sberpro.vedomosti.ru
+sberspasibo.ru
+sbertech.ru
 sbertroika.ru
+sbrf.ru
 selcdn.net
 selectel.academy
 selectel.blog
@@ -780,6 +814,7 @@ sentry.wb.ru
 sentry.x5.ru
 servercore.com
 servercore.live
+setka.ru
 sev.ru
 sevastopol.ru
 sgcheck.ru
@@ -796,6 +831,9 @@ smotreshka.tv
 softportal.com
 soomkosh.ru
 sourcecraft.dev
+spasibo.digital
+spasibo.market
+spasibobonus.ru
 spasibosb.ru
 spasibosberbank.ru
 spb.ru
@@ -816,6 +854,7 @@ sushi-mag.com
 sushiwok.ru
 t-access.ru
 t-bank-app.ru
+t-bank-app.su
 t-bank.by
 t-calls.ru
 t-capital-funds.ru
@@ -837,6 +876,7 @@ t-technologies.ru
 t-tolk.ru
 t.finance
 t1.cloud
+talantix.ru
 tambov.ru
 tamtam.chat
 taobao.com
@@ -1179,6 +1219,7 @@ youla.io
 youla.ru
 yuzhno-sakhalinsk.ru
 zanmarket.ru
+zarplata.ru
 zdrav.expert
 zdrav10.ru
 zvonili.com
