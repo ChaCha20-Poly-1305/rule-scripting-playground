@@ -83,7 +83,7 @@ TOTAL=$(grep -v '^\s*$' "$INPUT" | grep -v '^\s*#' | wc -l | tr -d ' ')
       echo "$line"
     else
       domain="${line// /}"
-      echo "local-zone: \"${domain}\" always_nxdomain"
+      echo "local-zone: \"${domain}\" transparent"
     fi
   done < "$INPUT"
 } > "$UNBOUND_ALLOW"
