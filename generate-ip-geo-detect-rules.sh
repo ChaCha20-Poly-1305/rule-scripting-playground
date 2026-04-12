@@ -7,7 +7,7 @@ URL="https://github.com/MetaCubeX/meta-rules-dat/raw/refs/heads/meta/geo/geosite
 OUTPUT="output/ip-geo-detect-domain.list"
 NAME="ip-geo-detect-domain.list"
 AUTHOR="ChaCha20-Poly-1305"
-REPO="https://github.com/ChaCha20-Poly-1305/rule-scripting-playground"
+REPO="https://github.com/ChaCha20-Poly-1305/geosite-domain-rule-generator"
 UPDATED=$(TZ="Asia/Shanghai" date "+%Y-%m-%d %H:%M:%S %Z")
 
 echo "Downloading from: $URL"

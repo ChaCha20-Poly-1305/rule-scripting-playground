@@ -18,7 +18,7 @@ SR_NAME="ru-domain.list"
 UB_BLOCK_NAME="ru-unbound-domain-blocklist.conf"
 UB_ALLOW_NAME="ru-unbound-domain-whitelist.conf"
 AUTHOR="ChaCha20-Poly-1305"
-REPO="https://github.com/ChaCha20-Poly-1305/rule-scripting-playground"
+REPO="https://github.com/ChaCha20-Poly-1305/geosite-domain-rule-generator"
 UPDATED=$(TZ="Asia/Shanghai" date "+%Y-%m-%d %H:%M:%S %Z")
 
 # Count non-blank, non-comment lines
