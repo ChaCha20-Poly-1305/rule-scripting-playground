@@ -31,8 +31,9 @@ jobs:
         uses: softprops/action-gh-release@v2
         with:
           tag_name: ${{ env.RELEASE_TAG }}
-          name: "Automated nightly release ${{ env.RELEASE_TAG }}"
+          name: "${{ env.RELEASE_TAG }}"
           files: |
+            output/ru-unbound-domain-whitelist.conf
             output/ru-unbound-domain-blocklist.conf
-            output/ru-foreign-TLD-domain.list
+            output/ru-domain.list
             output/ip-geo-detect-domain.list
