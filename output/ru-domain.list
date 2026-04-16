@@ -1,8 +1,8 @@
 # NAME: ru-domain.list
 # AUTHOR: ChaCha20-Poly-1305
 # REPO: https://github.com/ChaCha20-Poly-1305/geosite-domain-rule-generator
-# UPDATED: 2026-04-16 14:23:34 CST
-# TOTAL: 1479
+# UPDATED: 2026-04-16 19:41:19 CST
+# TOTAL: 1487
 
 DOMAIN-SUFFIX,1l-hit.mail.ru
 DOMAIN-SUFFIX,1l-hit.vkplay.ru
@@ -208,6 +208,7 @@ DOMAIN-SUFFIX,carrotquest-mail.io
 DOMAIN-SUFFIX,carrotquest.app
 DOMAIN-SUFFIX,carrotquest.io
 DOMAIN-SUFFIX,carrottrack.app
+DOMAIN-SUFFIX,catcher.fish
 DOMAIN-SUFFIX,cbg.ru
 DOMAIN-SUFFIX,cbr.ru
 DOMAIN-SUFFIX,cdek-ae.com
@@ -471,6 +472,7 @@ DOMAIN-SUFFIX,ilovesakura.ru
 DOMAIN-SUFFIX,imgsmail.ru
 DOMAIN-SUFFIX,inbox.ru
 DOMAIN-SUFFIX,informer.yandex.ru
+DOMAIN-SUFFIX,insales-cdn.com
 DOMAIN-SUFFIX,insideok.ru
 DOMAIN-SUFFIX,internet.ru
 DOMAIN-SUFFIX,irk.ru
@@ -754,6 +756,7 @@ DOMAIN-SUFFIX,orb.ru
 DOMAIN-SUFFIX,oryol.ru
 DOMAIN-SUFFIX,ostrovok.ru
 DOMAIN-SUFFIX,otello.ru
+DOMAIN-SUFFIX,otsovik.com
 DOMAIN-SUFFIX,otzovik.com
 DOMAIN-SUFFIX,ozon-credit.ru
 DOMAIN-SUFFIX,ozon-dostavka.ru
@@ -960,6 +963,7 @@ DOMAIN-SUFFIX,sberspasibo.ru
 DOMAIN-SUFFIX,sbertech.ru
 DOMAIN-SUFFIX,sbertroika.ru
 DOMAIN-SUFFIX,sbrf.ru
+DOMAIN-SUFFIX,scripts-for-ucoz.ru
 DOMAIN-SUFFIX,selcdn.net
 DOMAIN-SUFFIX,selectel.academy
 DOMAIN-SUFFIX,selectel.blog
@@ -1154,14 +1158,17 @@ DOMAIN-SUFFIX,ucoz.es
 DOMAIN-SUFFIX,ucoz.fr
 DOMAIN-SUFFIX,ucoz.hu
 DOMAIN-SUFFIX,ucoz.kz
+DOMAIN-SUFFIX,ucoz.lv
 DOMAIN-SUFFIX,ucoz.md
 DOMAIN-SUFFIX,ucoz.net
 DOMAIN-SUFFIX,ucoz.org
 DOMAIN-SUFFIX,ucoz.pl
 DOMAIN-SUFFIX,ucoz.ru
+DOMAIN-SUFFIX,ucoz.site
 DOMAIN-SUFFIX,ucoz.ua
 DOMAIN-SUFFIX,ucozmedia.com
 DOMAIN-SUFFIX,ucozmedia.ru
+DOMAIN-SUFFIX,ucoztemplates.com
 DOMAIN-SUFFIX,ucsan.ru
 DOMAIN-SUFFIX,udm.ru
 DOMAIN-SUFFIX,udmurtia.ru
@@ -1478,6 +1485,7 @@ DOMAIN-SUFFIX,youla.ru
 DOMAIN-SUFFIX,yuzhno-sakhalinsk.ru
 DOMAIN-SUFFIX,zanmarket.ru
 DOMAIN-SUFFIX,zarplata.ru
+DOMAIN-SUFFIX,zaulov.by
 DOMAIN-SUFFIX,zdrav.expert
 DOMAIN-SUFFIX,zdrav10.ru
 DOMAIN-SUFFIX,zvonili.com
