@@ -1,8 +1,8 @@
 # NAME: ru-domain.list
 # AUTHOR: ChaCha20-Poly-1305
 # REPO: https://github.com/ChaCha20-Poly-1305/geosite-domain-rule-generator
-# UPDATED: 2026-04-17 03:53:40 CST
-# TOTAL: 1550
+# UPDATED: 2026-04-17 14:24:27 CST
+# TOTAL: 1554
 
 DOMAIN-SUFFIX,1l-hit.mail.ru
 DOMAIN-SUFFIX,1l-hit.vkplay.ru
@@ -1153,6 +1153,10 @@ DOMAIN-SUFFIX,thebutik.ru
 DOMAIN-SUFFIX,threads.im
 DOMAIN-SUFFIX,tigrenok.toys
 DOMAIN-SUFFIX,tigrenoktoys.ru
+DOMAIN-SUFFIX,tilda.cc
+DOMAIN-SUFFIX,tilda.ru
+DOMAIN-SUFFIX,tilda.ws
+DOMAIN-SUFFIX,tildaapi.com
 DOMAIN-SUFFIX,tildacdn.com
 DOMAIN-SUFFIX,time-messenger.ru
 DOMAIN-SUFFIX,timeweb.cloud
