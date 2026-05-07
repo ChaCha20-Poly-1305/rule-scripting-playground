@@ -1,7 +1,7 @@
 # NAME: ip-geo-detect-domain.list
 # AUTHOR: ChaCha20-Poly-1305
 # REPO: https://github.com/ChaCha20-Poly-1305/geosite-domain-rule-generator
-# UPDATED: 2026-05-07 11:32:40 CST
+# UPDATED: 2026-05-07 18:27:52 CST
 # TOTAL: 143
 
 DOMAIN-SUFFIX,51degrees.com
