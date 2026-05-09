@@ -48,6 +48,7 @@ adfox.ru
 adfox.yandex.ru
 adfstat.yandex.ru
 admetrica.ru
+adriver.ru
 ads-gate.wildberries.ru
 ads-integration.rustore.ru
 ads-media.wildberries.ru
@@ -590,6 +591,7 @@ jivosite.com
 jivosite.ru
 jump.taxi
 jumpwork.ru
+justveryok.com
 jx5.ru
 kalmykia.ru
 kaluga.ru
@@ -638,6 +640,7 @@ kazan.ru
 kazanexpress.ru
 kchr.ru
 kemerovo.ru
+keyboardmen.com
 keyx5.ru
 khabarovsk.ru
 khakassia.ru
@@ -856,7 +859,15 @@ o3team.ru
 obs.mts.ru
 ocourier.ru
 odkl.ru
+odnoklasniki.by
+odnoklasniki.ua
+odnoklassniki.am
+odnoklassniki.by
+odnoklassniki.co.ee
+odnoklassniki.eu
+odnoklassniki.lv
 odnoklassniki.ru
+odnoklassniki.tj
 ognihome.com
 ok.me
 ok.ru
@@ -975,6 +986,7 @@ psk.ru
 pskov.ru
 ptz.ru
 pushgrow.io
+pz.help
 qnails.ru
 qntm.it.com
 qtickets.tech
@@ -986,6 +998,7 @@ r.my.com
 r0.mail.ru
 r0.mradx.net
 r1.mail.ru
+rabbitcounter.com
 rabota.by
 radar.imgsmail.ru
 rbcollect.ru
@@ -1071,6 +1084,7 @@ sakhalin.ru
 samara.ru
 samokat.ru
 saratov.ru
+sayeasy.eu
 sber-bank.by
 sber.pro
 sber.ru
@@ -1571,6 +1585,7 @@ xn--90absjljw3g.xn--p1ai
 xn--90aifd0az.shop
 xn--90aifd0azb.xn--p1acf
 xn--b1aechhj6bof8g5a.site
+xn--b1afabzvcegckfhg.xn--p1ai
 xn--d1abkf4ap.fun
 xn--d1acpjx3f.xn--p1ai
 xn--e1adjldbbpv.xn--90ais

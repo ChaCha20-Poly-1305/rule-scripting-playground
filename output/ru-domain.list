@@ -1,8 +1,8 @@
 # NAME: ru-domain.list
 # AUTHOR: ChaCha20-Poly-1305
 # REPO: https://github.com/ChaCha20-Poly-1305/geosite-domain-rule-generator
-# UPDATED: 2026-05-09 11:27:11 CST
-# TOTAL: 1670
+# UPDATED: 2026-05-09 17:23:06 CST
+# TOTAL: 1685
 
 DOMAIN-SUFFIX,1l-hit.mail.ru
 DOMAIN-SUFFIX,1l-hit.vkplay.ru
@@ -54,6 +54,7 @@ DOMAIN-SUFFIX,adfox.ru
 DOMAIN-SUFFIX,adfox.yandex.ru
 DOMAIN-SUFFIX,adfstat.yandex.ru
 DOMAIN-SUFFIX,admetrica.ru
+DOMAIN-SUFFIX,adriver.ru
 DOMAIN-SUFFIX,ads-gate.wildberries.ru
 DOMAIN-SUFFIX,ads-integration.rustore.ru
 DOMAIN-SUFFIX,ads-media.wildberries.ru
@@ -596,6 +597,7 @@ DOMAIN-SUFFIX,jivosite.com
 DOMAIN-SUFFIX,jivosite.ru
 DOMAIN-SUFFIX,jump.taxi
 DOMAIN-SUFFIX,jumpwork.ru
+DOMAIN-SUFFIX,justveryok.com
 DOMAIN-SUFFIX,jx5.ru
 DOMAIN-SUFFIX,kalmykia.ru
 DOMAIN-SUFFIX,kaluga.ru
@@ -644,6 +646,7 @@ DOMAIN-SUFFIX,kazan.ru
 DOMAIN-SUFFIX,kazanexpress.ru
 DOMAIN-SUFFIX,kchr.ru
 DOMAIN-SUFFIX,kemerovo.ru
+DOMAIN-SUFFIX,keyboardmen.com
 DOMAIN-SUFFIX,keyx5.ru
 DOMAIN-SUFFIX,khabarovsk.ru
 DOMAIN-SUFFIX,khakassia.ru
@@ -862,7 +865,15 @@ DOMAIN-SUFFIX,o3team.ru
 DOMAIN-SUFFIX,obs.mts.ru
 DOMAIN-SUFFIX,ocourier.ru
 DOMAIN-SUFFIX,odkl.ru
+DOMAIN-SUFFIX,odnoklasniki.by
+DOMAIN-SUFFIX,odnoklasniki.ua
+DOMAIN-SUFFIX,odnoklassniki.am
+DOMAIN-SUFFIX,odnoklassniki.by
+DOMAIN-SUFFIX,odnoklassniki.co.ee
+DOMAIN-SUFFIX,odnoklassniki.eu
+DOMAIN-SUFFIX,odnoklassniki.lv
 DOMAIN-SUFFIX,odnoklassniki.ru
+DOMAIN-SUFFIX,odnoklassniki.tj
 DOMAIN-SUFFIX,ognihome.com
 DOMAIN-SUFFIX,ok.me
 DOMAIN-SUFFIX,ok.ru
@@ -981,6 +992,7 @@ DOMAIN-SUFFIX,psk.ru
 DOMAIN-SUFFIX,pskov.ru
 DOMAIN-SUFFIX,ptz.ru
 DOMAIN-SUFFIX,pushgrow.io
+DOMAIN-SUFFIX,pz.help
 DOMAIN-SUFFIX,qnails.ru
 DOMAIN-SUFFIX,qntm.it.com
 DOMAIN-SUFFIX,qtickets.tech
@@ -992,6 +1004,7 @@ DOMAIN-SUFFIX,r.my.com
 DOMAIN-SUFFIX,r0.mail.ru
 DOMAIN-SUFFIX,r0.mradx.net
 DOMAIN-SUFFIX,r1.mail.ru
+DOMAIN-SUFFIX,rabbitcounter.com
 DOMAIN-SUFFIX,rabota.by
 DOMAIN-SUFFIX,radar.imgsmail.ru
 DOMAIN-SUFFIX,rbcollect.ru
@@ -1077,6 +1090,7 @@ DOMAIN-SUFFIX,sakhalin.ru
 DOMAIN-SUFFIX,samara.ru
 DOMAIN-SUFFIX,samokat.ru
 DOMAIN-SUFFIX,saratov.ru
+DOMAIN-SUFFIX,sayeasy.eu
 DOMAIN-SUFFIX,sber-bank.by
 DOMAIN-SUFFIX,sber.pro
 DOMAIN-SUFFIX,sber.ru
@@ -1577,6 +1591,7 @@ DOMAIN-SUFFIX,xn--90absjljw3g.xn--p1ai
 DOMAIN-SUFFIX,xn--90aifd0az.shop
 DOMAIN-SUFFIX,xn--90aifd0azb.xn--p1acf
 DOMAIN-SUFFIX,xn--b1aechhj6bof8g5a.site
+DOMAIN-SUFFIX,xn--b1afabzvcegckfhg.xn--p1ai
 DOMAIN-SUFFIX,xn--d1abkf4ap.fun
 DOMAIN-SUFFIX,xn--d1acpjx3f.xn--p1ai
 DOMAIN-SUFFIX,xn--e1adjldbbpv.xn--90ais
